@@ -1,0 +1,36 @@
+what ts does :
+it is for static checking (like in java)
+whenever we are writing the code the syntax of the code is monitered by ide but not in case of js , wnd when we execute the errors are thrown , so it will be great if we had a static checker .
+it checks and gives us hint about what is wrong in our code 
+
+development process : 
+code writen in ts file or tsx(ts + jsx) file 
+this code transpiled in js 
+
+ts -> it is dev tool ,& projects still runs in js 
+ts is superset of js 
+
+types in ts :  
+-number string boolean 
+-null undefined void 
+-object array tuples ...
+-Any (more like js as we dont have to worry about type )
+-never 
+-unknown
+
+declaring varibles 
+
+let variableName : type = value 
+
+
+
+
+
+
+
+
+
+
+
+
+
