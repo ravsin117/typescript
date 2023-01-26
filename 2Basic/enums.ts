@@ -10,7 +10,6 @@ const enum SeatChoice{
     WINDOW = 3,
     FOURTH , //= 4  
 }
-
 const hcSeat = SeatChoice.AISLE
 
 
